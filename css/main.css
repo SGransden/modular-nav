@@ -31,7 +31,6 @@ header {
 
 .logo {
   text-align: center;
-
 }
 
 ul {
@@ -57,4 +56,5 @@ a:hover {
   .logo {
     text-align: left;
   }
+
 }
